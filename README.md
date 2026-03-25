@@ -22,15 +22,15 @@ These Simullink projects were made on Matlab R2025a, using Rexys' NOA Toolbox an
 
 ## Structure
 
-/demos_github_NOA
-├── /example_projects                       #Simulink files of example projects
-│   ├── /sinus_generator
-│   │   └── sine_gen_v1.slx
-│   └── /three_phase_generators
-│       ├── sine_gen_triphase_v1.slx
-│       ├── sine_gen_triphase_v2.slx
-│       └── sine_gen_triphase_v3.slx
-└── README.md                               #this file
+    /demos_github_NOA
+    ├── /example_projects                       #Simulink files of example projects
+    │   ├── /sinus_generator
+    │   │   └── sine_gen_v1.slx
+    │   └── /three_phase_generators
+    │       ├── sine_gen_triphase_v1.slx
+    │       ├── sine_gen_triphase_v2.slx
+    │       └── sine_gen_triphase_v3.slx
+    └── README.md                               #this file
 
 ## Content
 
