@@ -36,7 +36,7 @@ These Simullink projects were made on Matlab R2025a, using Rexys' NOA Toolbox an
 
 * `sinus_generator`: a design generating a sine wave with adjustable frequency and amplitude
 
-* `three_phase_generators`: three versions of a design generating three sine waves with adjustable frequency and amplitude
+* `three_phase_generators`: three versions of a design generating three sine waves with adjustable frequency and amplitude, the first and the second are based on three RAMs, and the third one is more optimized, with only one RAM
 
 ## Authors
 
